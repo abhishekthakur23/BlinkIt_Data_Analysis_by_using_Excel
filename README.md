@@ -35,3 +35,5 @@ Top Categories:
 - Fruits, vegetables, and snack foods are the most popular categories.
 = Regular fat products outperform low-fat options significantly.
 - Supermarket Type 1 outlets dominate overall sales performance.
+
+![Blinkit_Dashboard_Snap](https://github.com/user-attachments/assets/bf27219b-27e7-4877-b10f-eabe520355a1)
